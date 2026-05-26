@@ -35,13 +35,13 @@ ReconFlow is a beginner-friendly Reconnaissance Automation Framework built for W
 ## Screenshots
 
 ### Recon Workflow
-![Recon Workflow](screenshots/recon1.png)
+![Recon Workflow](ReconFlow/screenshots/recon1.png)
 
 ### Live Host Discovery
-![Live Hosts](screenshots/recon4.png)
+![Live Hosts](ReconFlow/screenshots/recon4.png)
 
 ### Results Folder
-![Results](screenshots/recon2.png)
+![Results](ReconFlow/screenshots/recon2.png)
 
 ## Educational Purpose
 
